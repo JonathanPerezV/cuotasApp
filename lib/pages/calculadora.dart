@@ -1,5 +1,5 @@
 import 'package:another_flushbar/flushbar.dart';
-import 'package:aplicacion_calculadora/utils/preferencias.dart';
+import 'package:aplicacion_calculadora/pages/utils/preferencias.dart';
 import 'package:flutter/material.dart';
 
 class Calculadora extends StatefulWidget {
